@@ -1,1 +1,1 @@
-# Funny-JSOn-Explorer
+# Funny-JSON-Explorer
